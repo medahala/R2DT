@@ -1,6 +1,6 @@
 # R2DT
 
-Description and purpose of programs that were used to create R2DT contained within manuscript 
+Description and purpose of programs that were used to create simulation data contained within R2DT manuscript 
 ################################################################
 #Programs
 #################################################################
