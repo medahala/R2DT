@@ -39,7 +39,7 @@ stan logistic model files for efficacy
 stan logistic model files for toxicity
 
 
-###DoseDet folder
+### DoseDet folder
 
 The decsision method functions are utilised via a user package to facilitate
 parralel programing. PACKAGE NEEDS INSTALLING on local machine via following R code
