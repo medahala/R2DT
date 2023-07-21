@@ -7,7 +7,7 @@ Description and purpose of programs that were used to create simulation data con
 
 Scenerio_Data_generation.r
 #########################################
-creates simulated_data.rds, a large array of random patient outcomes for given scenarios
+creates simulated_data.rds, a large array of random patient outcomes for given scenarios 
 also creates a list of fixed scenario probabilities 
 
 F_simulations_cache_sep.r
